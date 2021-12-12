@@ -6,10 +6,11 @@ Nuestro proyecto consiste en generar una aplicación que permita el mantenimient
 2. Debes hacer pull de la última versión del proyecto
 3. etc etc.
 ## Por cualquier problema contactar con:
-| Nombre  | Ambito  |
+| Nombre  | eMail  |
 | ------------ | ------------ |
 |  Giselle Lazcano | GLazcanco@midominio.com  |
 | Felipe Gorigoitia  | FGorigoitia@midominio.com  |
 | Ignacio Ordenes  | IOrdenes@midominio.com  |
 | Claudio Bissotto  | CBissotto@midominio.com  |
 | Ernesto Hernandez  | EHernnadez@midominio.com  |
+| Cristian Toro  | CToro@midominio.com  |
