@@ -1,2 +1,15 @@
-# crud-usuarios-s1g1
-Repositorio ejercicio-9 módulo-2, sección-1, grupo-1
+# Introducción
+
+Nuestro proyecto consiste en generar una aplicación que permita el mantenimiento de usuarios desarrollando las 4 acciones principales (crear, leer, actualizar y eliminar), para luego en los siguientes módulos ir agregando mas funcionalidad acorde al conocimientos adquirido en cada clase.
+##Instalación
+1. Debes tener instalado node.js en tu computador
+2. Debes hacer pull de la última versión del proyecto
+3. etc etc.
+## Por cualquier problema contactar con:
+| Nombre  | Ambito  |
+| ------------ | ------------ |
+|  Giselle Lazcano | GLazcanco@midominio.com  |
+| Felipe Gorigoitia  | FGorigoitia@midominio.com  |
+| Ignacio Ordenes  | IOrdenes@midominio.com  |
+| Claudio Bissotto  | CBissotto@midominio.com  |
+| Ernesto Hernandez  | EHernnadez@midominio.com  |
